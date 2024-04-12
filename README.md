@@ -5,7 +5,7 @@
 
 </div>
 
-### <div align="center"> 🚀 minionhub - Senior Software Developer 🚀</div>  
+### <div align="center"> 🚀 Steven J - Senior Software Developer 🚀</div>  
 
 Bringing more than 12 years of experience leading website design projects,
 including gathering user requirements, producing code, creating mockups, and
@@ -14,7 +14,7 @@ security. Achieves compatibility targets while meeting and exceeding customer
 demands.
 
 <br/>  
-Contact me <b>email</b>: minionhub.dev@gmail.com 
+Contact me <b>email</b>: steven93721@gmail.com 
 <br/>
 <br/>
 
@@ -24,6 +24,8 @@ Contact me <b>email</b>: minionhub.dev@gmail.com
   ### Frontend  
 
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -33,11 +35,9 @@ Contact me <b>email</b>: minionhub.dev@gmail.com
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
 </div>
 
 

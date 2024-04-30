@@ -49,6 +49,16 @@ Contact me <b>email</b>: mv19910815@gmail.com
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+            <a
+              href="https://docs.microsoft.com/en-us/dotnet/csharp/"
+              target="_blank"
+              ><img
+                style="margin: 10px"
+                src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg"
+                alt="C#"
+                height="50"
+                width="50"
+            /></a> -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  

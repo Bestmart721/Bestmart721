@@ -13,9 +13,6 @@ enhancing designs. Focused on creating clean, robust code with exceptional
 security. Achieves compatibility targets while meeting and exceeding customer
 demands.
 
-<br/>  
-Contact me <b>email</b>: mv19910815@gmail.com 
-<br/>
 <br/>
 
 <table><tr><td valign="top" width="50%">
